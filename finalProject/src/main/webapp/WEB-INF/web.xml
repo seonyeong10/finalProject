@@ -30,6 +30,7 @@
   			classpath:spring-context.xml
   			classpath:spring-beans.xml
   			classpath:mybatis-config.xml
+  			classpath:spring-jdbc.xml
   		</param-value>
   	</init-param>
   </servlet>
